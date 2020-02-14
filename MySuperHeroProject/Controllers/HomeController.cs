@@ -25,6 +25,7 @@ namespace MySuperHeroProject.Controllers
 
         public IActionResult Privacy()
         {
+          
             return View();
         }
 
