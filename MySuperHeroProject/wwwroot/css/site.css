@@ -59,8 +59,13 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+   background-image:url(/lib/Images/hulk-667988__340.webp);
+   background-size:cover;
+   background-position:center;
+   background-repeat:no-repeat;
+        
 }
 .footer {
   position: absolute;
