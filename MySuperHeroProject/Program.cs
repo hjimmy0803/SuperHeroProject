@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace MySuperHeroProject
 {
-    public class Program
+    public class kProgram
     {
         public static void Main(string[] args)
         {
